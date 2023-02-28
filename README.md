@@ -15,26 +15,19 @@ For both types of exercises, you are required to perform the following steps:
 4. [Push your changes](#push-your-changes)
 
 For **challenge exercises**, once your exercise is complete, you must also perform an additional step:
-
+line 3
 5. [Create pull request](#create-pull-request)
 
 When given an exercise of either type, you will be provided with a link to a GitHub repository that contains the exercise instructions and any template code. 
 
 Prior to following this guide you should have:
-
+line 4
 1. Signed up to a GitHub account
 2. Been added to the relevant GitHub team for your Cohort (your instructor can invite you)
 3. Have installed Git on your development machine
 4. Have setup and configured SSH Keys
 
-## 1. Fork the repository
-The first step is **fork** the repository. You can do this from the repository page in GitHub by pressing the **fork** button in the top right corner:
-
-![Forking](images/fork.png)
-
-Forking the repository takes a copy of the repository and adds it to your own GitHub account.
-
-If you cannot see the exercise page or get an error trying to access it, contact your instructor. The cause is likely to be one of the following:
+## 1. Fork the reposg:
 
 * You are not signed in to your GitHub account
 * You have not been added to the GitHub team for your cohort
