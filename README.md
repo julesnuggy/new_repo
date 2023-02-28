@@ -2,11 +2,11 @@
 
 # Exercise Workflow
 This page describes the process for working on exercises at Boolean. There are two main types of exercise: 
-
+line 1
 1. Afternoon exercises that put in to practice the theory you learn in morning lectures. There will usually be an afternoon exercise each day.
 
 2. Larger challenge exercises that take place across multiple days and allow you to test your understanding of the material covered so far. There will be one or two of these per learning unit.
-
+line 2
 For both types of exercises, you are required to perform the following steps:
 
 1. [Fork the repository](#fork-the-repository)
