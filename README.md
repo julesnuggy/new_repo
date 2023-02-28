@@ -27,7 +27,6 @@ line 4
 3. Have installed Git on your development machine
 4. Have setup and configured SSH Keys
 
-## 1. Fork the reposg:
 
 * You are not signed in to your GitHub account
 * You have not been added to the GitHub team for your cohort
